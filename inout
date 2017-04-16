@@ -1,0 +1,2 @@
+input{'payday','payFrequency','rateOfPay','averageCommission','averagePay','numberOfJobs','nameOfJob','billName','billOccurancy','billBlance','billDate','billDueDate'.'billInterest'}
+output{'monthlyIncome','monthlyPaid','weeklyPaid','weeklyReturn','monthlyReturn','savingRecommended','savingsRecommendedReturn'}
