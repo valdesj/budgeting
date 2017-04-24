@@ -1,18 +1,18 @@
-<h1>Income</h1>
 <form>
-	<input type="text" class="income" id="name OfSource"/>
-	<input type="text" class="income" id="name OfSource"/>
-	<select class="income" id="frequency">
-		<option value="fweek">weekly</option>
-		<option value="fbiweek">bi-weekly</option>
-		<option value="fmonth">monthly</option>
-		<option value="fsalary">salary</option>
-	</select>
-	 <button type="submit" class="salary">Add</button>
-</form>
-<h1>Expenses</h1>
-<form>
-	<input type="text" class="expense" id="name OfCharge"/>
+	<h1>Income</h1>
+	Name of Income Source: <input type="text" class="income" id="nameOfSource"/>
+	<div class="income">
+		Frequency of Pay: <select class="income" id="frequency">
+			<option value="fweek">weekly</option>
+			<option value="fbiweek">bi-weekly</option>
+			<option value="fmonth">monthly</option>
+			<option value="fsalary">salary</option>
+		</select>
+		Amount Paid: <input type="text" class="income" id="amountInDollars"/>
+	</div>
+	 <button type="submit" class="salary">Add another Income Source</button>
+	<h1>Expenses</h1>
+	<input type="text" class="expense" id="nameOfCharge"/>
 	<select class="income" id="frequency">
 		<option value="fweek">weekly</option>
 		<option value="fbiweek">bi-weekly</option>

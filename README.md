@@ -1,1 +1,1 @@
-This is me trying to get out of debt and instead of planning out my budget i diceded to code something that poorly does what 100 other apps do better
+Someone save me
